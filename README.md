@@ -106,15 +106,6 @@ class Ahmed:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmedks9&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedks9&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## 🌟 Let's Connect!
 
 I'm always happy to talk about AI, embedded systems, space tech, or collaborations on interesting projects.
@@ -125,5 +116,5 @@ I'm always happy to talk about AI, embedded systems, space tech, or collaboratio
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedks9&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedks9&color=blueviolet&style=flat-square&label=Profile+Views&base=856" />
 </div>
